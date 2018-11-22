@@ -11,6 +11,7 @@
 - 电脑端微信自动登录
 
 ## 效果预览
- ![image](https://github.com/xxcyou/XianShen/raw/master/imgjpg/IMG_1.jpg)
- ![image](https://github.com/xxcyou/XianShen/raw/master/imgjpg/IMG_2.jpg)
+ ![image](https://github.com/xxcyou/WiFiLu/raw/master/imgjpg/IMG_1.jpg)
+ 
+ ![image](https://github.com/xxcyou/WiFiLu/raw/master/imgjpg/IMG_2.jpg)
 

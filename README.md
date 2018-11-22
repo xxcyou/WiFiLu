@@ -15,5 +15,5 @@
 <img src="https://raw.githubusercontent.com/xxcyou/WiFiLu/master/imgjpg/IMG2.png" width="100%" />
 
 ## 下载地址
-[WiFiLu](https://github.com/xxcyou/WiFiLu/blob/master/WiFiL.apk)
+[WiFiLu](https://raw.githubusercontent.com/xxcyou/WiFiLu/master/WiFiL.apk)
 

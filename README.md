@@ -11,7 +11,5 @@
 - 电脑端微信自动登录
 
 ## 效果预览
- ![image](https://github.com/xxcyou/WiFiLu/raw/master/imgjpg/IMG_1.jpg)
- 
- ![image](https://github.com/xxcyou/WiFiLu/raw/master/imgjpg/IMG_2.jpg)
-
+<img src="https://raw.githubusercontent.com/xxcyou/WiFiLu/master/imgjpg/IMG1.jpg" width="45%" />
+<img src="https://raw.githubusercontent.com/xxcyou/WiFiLu/master/imgjpg/IMG2.jpg" width="45%" />

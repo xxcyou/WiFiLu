@@ -13,3 +13,7 @@
 ## 效果预览
 <img src="https://raw.githubusercontent.com/xxcyou/WiFiLu/master/imgjpg/IMG1.jpg" width="100%" />
 <img src="https://raw.githubusercontent.com/xxcyou/WiFiLu/master/imgjpg/IMG2.png" width="100%" />
+
+## 下载地址
+[WiFiLu](https://github.com/xxcyou/WiFiLu/blob/master/WiFiL.apk)
+
